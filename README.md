@@ -1,6 +1,6 @@
 ### Hi, I'm Charles 👋
 
-I study AI, data and finance in the **AIDAMS** bachelor at **CentraleSupélec × ESSEC** in Paris (top 10% of the cohort), and I'm heading to **UT Austin** for an exchange semester in spring 2027.
+I study AI, data and finance in the **AIDAMS** bachelor at **CentraleSupélec × ESSEC** in Paris (4.0 GPA), and I'm heading to **UT Austin** for an exchange semester in spring 2027.
 I like building things that turn messy information into something people use: retrieval systems, NLP pipelines and automations.
 Looking for a **summer 2027 internship** in AI engineering or quantitative research.
 
